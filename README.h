@@ -1,9 +1,9 @@
 //AssaultCube-Linux-Offsets:
 
-const char* BaseAddressName = "linux_64_client";                  
+const char* BaseAddressName = "linux_64_client";
 intptr_t LocalPlayer = 0x001A3518;
 
-//Offsets                            
+//Offsets
 intptr_t HP = 0x100;
 intptr_t Armor = 0x104;
 intptr_t Rifle_Ammo = 0x154;
