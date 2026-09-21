@@ -1,6 +1,4 @@
 //AssaultCube-Linux-Offsets:
-
-const char* BaseAddressName = "linux_64_client";
 intptr_t LocalPlayer = 0x001A3518;
 
 //Offsets
